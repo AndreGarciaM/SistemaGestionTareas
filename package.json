@@ -1,0 +1,11 @@
+{
+  "name": "gestion-tareas",
+  "version": "1.0.0",
+  "description": "Sistema de Gestion de Tareas que permite agregar, listar y eliminar las tareas ingresadas por el usuario",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Andres Mauricio Garcia Mutis",
+  "license": "ISC"
+}
