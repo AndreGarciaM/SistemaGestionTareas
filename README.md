@@ -1,7 +1,8 @@
 # SistemaGestionTareas
 Sistema de Gestion de Tareas que permite agregar, listar y eliminar las tareas ingresadas por el usuario.
 
-Para iniciar el programa ejecute 
+Para iniciar el programa ejecute
+
   npm start
   
 Sistema de Gestión de Tareas - Descripción de Funcionalidad
