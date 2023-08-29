@@ -1,5 +1,7 @@
 # SistemaGestionTareas
-Sistema de Gestion de Tareas que permite agregar, listar y eliminar las tareas ingresadas por el usuario
+Sistema de Gestion de Tareas que permite agregar, listar y eliminar las tareas ingresadas por el usuario.
+Para iniciar el programa ejecute 
+  npm start
 Sistema de Gestión de Tareas - Descripción de Funcionalidad
 
 El Sistema de Gestión de Tareas es una aplicación desarrollada en Node.js y JavaScript que permite a los usuarios gestionar sus tareas pendientes de manera eficiente. La aplicación ofrece una interfaz de línea de comandos que facilita la interacción con las siguientes funcionalidades:
